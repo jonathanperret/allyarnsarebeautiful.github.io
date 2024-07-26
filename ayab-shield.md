@@ -14,14 +14,14 @@ The main difference to the 1.3TH are the additional 2.0mm Connectors for KH-900 
 
 Manufacturing Data:
 
-* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/Shieldv1x/10_ayab-arduino/through_hole/export/schematic.pdf)
-* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/Shieldv1x/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
-* [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv1x/10_ayab-arduino/through_hole)
+* [Schematic](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@1.4th/10_ayab-arduino/through_hole/export/schematic.pdf)
+* [Layout](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@1.4th/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
+* [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/v1.4th/10_ayab-arduino/through_hole)
 
 Helpful documents:
 
-* AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-manuals/raw/master/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-manuals/raw/master/soldering/de/soldering_de.pdf)
-* How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
+* AYAB Shield Solder Instructions [english](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-manuals@f54790b647bd3c0adc6af2c695565d14bf141258/soldering/en/soldering_en.pdf)/[german](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-manuals@f54790b647bd3c0adc6af2c695565d14bf141258/soldering/de/soldering_de.pdf)
+* How to solder? [english](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](https://mightyohm.com/files/soldercomic/translations/DE_SolderComic.pdf)
 
 <p><a href="https://www.etsy.com/shop/redpinkgreen" target="_blank"><button type="button" class="btn btn-lg btn-primary">How to get this shield?</button></a></p>
 
@@ -29,7 +29,7 @@ Helpful documents:
 
 For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
-The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/05_connectors/kh9xx_power.pdf).
+The manufacturing data for the connector can be found [here](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@1.4th/05_connectors/kh9xx_power.pdf).
 
 ## Other Versions
 
