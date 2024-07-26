@@ -13,21 +13,21 @@ AYAB **Firmware v0.8** or greater is required for this shield version.
 
 Manufacturing Data:
 
-* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.3th/10_ayab-arduino/through_hole/export/schematic.pdf)
-* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.3th/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
-* [GERBER](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.3th/10_ayab-arduino/through_hole/arduino_shield.zip)
+* [Schematic](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.3th/10_ayab-arduino/through_hole/export/schematic.pdf)
+* [Layout](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.3th/10_ayab-arduino/through_hole/export/arduino_shield.pdf)
+* [GERBER](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.3th/10_ayab-arduino/through_hole/arduino_shield.zip)
 * [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/v1.3th/10_ayab-arduino/through_hole)
 
 Helpful documents:
 
-* AYAB Shield Solder Instructions [english](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/en/soldering_en.pdf)/[german](https://github.com/AllYarnsAreBeautiful/ayab-desktop/raw/master/documents/Manuals/soldering/de/soldering_de.pdf)
-* How to solder? [english](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](http://ayab-knitting.com/res/manuals/DE_SolderComic.pdf)
+* AYAB Shield Solder Instructions [english](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-manuals@f54790b647bd3c0adc6af2c695565d14bf141258/soldering/en/soldering_en.pdf)/[german](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-manuals@f54790b647bd3c0adc6af2c695565d14bf141258/soldering/de/soldering_de.pdf)
+* How to solder? [english](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)/[german](https://mightyohm.com/files/soldercomic/translations/DE_SolderComic.pdf)
 
 ### Power connector
 
 For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
-The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/05_connectors/kh9xx_power.pdf).
+The manufacturing data for the connector can be found [here](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@1.4th/05_connectors/kh9xx_power.pdf).
 
 ## Other Versions
 
@@ -64,7 +64,7 @@ Only the power connector (S1) is a pretty special type. As it was not possible t
 |  --       |           1 | PSK-KONTAKTE    | Contacts for beeper
 |  --       |           1 | SUMMER 6V       | Beeper
 
-#### rs-online.com 
+#### rs-online.com
 
 | **ID**    | **Amount**  | **Order#**      | **Description**
 |  IC3,IC4  |           2 | 403-563         |  MCP23008-E/P I2C Port-Expander

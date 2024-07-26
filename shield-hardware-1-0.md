@@ -6,22 +6,22 @@ permalink: /shield-hardware-1-0/
 
 ## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/ayab-shield/) for current Version.
 
-This Shield is the first Version. Not usable for self-soldering and works **ONLY** with KH-910
-It works with Arduino UNO and MEGA (both tested)
+This Shield is the first Version. Not usable for self-soldering and works **ONLY** with KH-910.
+It works with Arduino UNO and MEGA (both tested).
 
 <img src="/assets/shields/1_0.jpg" width="50%">
 
 Manufacturing Data:
 
-* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.0/documents/schematic.pdf)
-* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.0/documents/arduino_shield.pdf)
+* [Schematic](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.0/documents/schematic.pdf)
+* [Layout](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.0/documents/arduino_shield.pdf)
 * [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/v1.0/arduino)
 
 ### Power connector
 
 For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
-The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/05_connectors/kh9xx_power.pdf).
+The manufacturing data for the connector can be found [here](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@1.4th/05_connectors/kh9xx_power.pdf).
 
 ## Other Versions
 
@@ -45,7 +45,7 @@ Dimensions: 2.7 inch (6,86 cm) x 2.1 inch (5,3 cm)
 
 ## Bill of Materials Base Shield
 
-#### reichelt.de
+#### reichelt.de 
 
 |**ID**            |**Amount** |**Order**        |**Description
 |  LED1            |         1 | SMD-LED 0805 RT | Power on LED

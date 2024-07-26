@@ -6,23 +6,23 @@ permalink: /shield-hardware-1-1/
 
 ## This is not the current Version. See [Shield v1.4TH (Through-Hole)](/ayab-shield/) for current Version.
 
-This Shield is the latest SMD Version. Not usable for self-soldering
-It works with Arduino UNO and MEGA (both tested)
+This Shield is the latest SMD Version. Not usable for self-soldering.
+It works with Arduino UNO and MEGA (both tested).
 
 <img src="/assets/shields/1_1.jpg" width="50%">
 
 Manufacturing Data:
 
-* [Schematic](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.2/10_ayab-arduino/export/schematic.pdf)
-* [Layout](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.2/10_ayab-arduino/export/arduino_shield.pdf)
-* [GERBER](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/v1.2/10_ayab-arduino/arduino_shield.zip)
+* [Schematic](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.2/10_ayab-arduino/export/schematic.pdf)
+* [Layout](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.2/10_ayab-arduino/export/arduino_shield.pdf)
+* [GERBER](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@v1.2/10_ayab-arduino/arduino_shield.zip)
 * [Eagle Files](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/v1.2/10_ayab-arduino)
 
 ### Power connector
 
 For all models except KH-900 and KH-965, Brother used a proprietary power connector.<br>
 It is possible to build a replica of this connector using a piece of acrylic and 2.00mm^2 solid copper wire. <br>
-The manufacturing data for the connector can be found [here](https://github.com/AllYarnsAreBeautiful/ayab-hardware/raw/master/05_connectors/kh9xx_power.pdf).
+The manufacturing data for the connector can be found [here](https://cdn.jsdelivr.net/gh/allyarnsarebeautiful/ayab-hardware@1.4th/05_connectors/kh9xx_power.pdf).
 
 ## Other Versions
 
