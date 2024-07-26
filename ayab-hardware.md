@@ -27,14 +27,16 @@ it has to stay without the original cover or the cover has to be modded.
 Both the AYAB Shield and the AYAB Interface are Open Hardware.
 Here you can find all necessary information you need (Layout, Schematics, BOM, ...):
 
-- [AYAB Interface](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv2x)
-- [AYAB Shield](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/master/Shieldv1x)
+- [AYAB Interface](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/main/ayab-interface)
+- [AYAB Shield](https://github.com/AllYarnsAreBeautiful/ayab-hardware/tree/main/ayab-shield)
 
 ### Buy it!
 
 #### AYAB Interface
 
-For people which are not into PCB manufacturing and soldering, you can order the AYAB Interface e.g. at [WoollyLogicKnits on Etsy (AYAB Interface)](https://www.etsy.com/uk/shop/WoollyLogicKnits).
+The AYAB Interface is no longer sold nor manufactured by Evil Mad Scientist Laboratories.
+
+You may find people who manufacture and sell it on the Web, but we cannot point to particular seller as of this writing.
 
 #### AYAB Shield
 
